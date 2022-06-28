@@ -11,7 +11,7 @@ A simple game to practice programming skills :)
 - modules: Turtle, Time, Random.
 
 ### You can run this project locally just do:
-- `git clone https://github.com/slychagin/pong_game.git`;
+- `git clone https://github.com/slychagin/pong-game.git`;
 - you must have Python 3 installed on your computer;
 - make sure that the directory for the python bin/folder are included in your $PATH environment variable;
 - `cd pong-game`;
